@@ -51,6 +51,6 @@ a {
   width: 30%;
 }
 
-.text {
-  padding-left: 40px;
+section p.text {
+  padding-left: inherit;
 }
